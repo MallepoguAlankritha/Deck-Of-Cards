@@ -7,6 +7,7 @@ public class DeckOfCardsMain {
 		 DeckOfCardsGame deckOfCardsGame = new DeckOfCardsGame();
 	        deckOfCardsGame.welcome();
 	        deckOfCardsGame.deckOfCards();
+	        deckOfCardsGame.noOfPlayers();
 
 	}
 
