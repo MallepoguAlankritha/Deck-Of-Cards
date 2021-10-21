@@ -8,11 +8,7 @@ public class DeckOfCardsMain {
 	        deckOfCardsGame.welcome();
 	        deckOfCardsGame.deckOfCards();
 	        deckOfCardsGame.noOfPlayers();
-	        int player = 2;
-			deckOfCardsGame.sequenceOfPlay(player);
-	        DeckOfCardsGame.toshuffle();
-	    
-
+	       
 	}
 
 }
